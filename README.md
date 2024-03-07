@@ -1,3 +1,9 @@
+## Bolg System
+본 프로젝트는 React 공부 목적의 사이트
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
