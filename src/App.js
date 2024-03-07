@@ -10,9 +10,9 @@ function App() {
  
   let posts = "강남 고기 맛집";
 
-// function 제목바꾸기(){
+ function 제목바꾸기(){
 //   글제목변경[0]=1;
-// }
+ }
 
   //따봉변경('100');
 
